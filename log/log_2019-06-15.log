@@ -1,0 +1,51 @@
+2019-06-15 22:45:53,767 | INFO | Refreshing access_token
+2019-06-15 22:46:42,576 | INFO | Refreshing access_token
+2019-06-15 22:46:56,735 | INFO | Profile for Dale Egbert, id 31 created
+2019-06-15 22:47:12,779 | INFO | Refreshing access_token
+2019-06-15 22:47:41,139 | INFO | Refreshing access_token
+2019-06-15 22:47:55,649 | INFO | Refreshing access_token
+2019-06-15 22:48:17,422 | INFO | Refreshing access_token
+2019-06-15 22:48:52,987 | INFO | Refreshing access_token
+2019-06-15 22:49:16,203 | INFO | Profile for Rudy Seager, id 36 created
+2019-06-15 22:49:58,028 | INFO | Refreshing access_token
+2019-06-15 22:50:20,848 | INFO | Profile for Donald Butler, id 37 created
+2019-06-15 22:50:46,620 | INFO | Refreshing access_token
+2019-06-15 22:52:34,301 | INFO | Could not create profile for Manuel Levine, id 38
+2019-06-15 22:52:39,511 | INFO | Refreshing access_token
+2019-06-15 22:53:16,887 | INFO | Refreshing access_token
+2019-06-15 22:53:48,536 | INFO | Refreshing access_token
+2019-06-15 22:54:48,184 | INFO | Refreshing access_token
+2019-06-15 22:56:49,385 | INFO | Refreshing access_token
+2019-06-15 23:00:04,398 | INFO | Refreshing access_token
+2019-06-15 23:00:38,001 | INFO | Profile for Sheila Best, id 44 created
+2019-06-15 23:19:31,170 | INFO | Refreshing access_token
+2019-06-15 23:20:03,333 | INFO | Refreshing access_token
+2019-06-15 23:23:39,094 | INFO | Refreshing access_token
+2019-06-15 23:24:11,545 | INFO | Profile for John Marrero, id 47 created
+2019-06-15 23:28:07,314 | INFO | Refreshing access_token
+2019-06-15 23:29:24,011 | INFO | Profile for James Davidson, id 48 created
+2019-06-15 23:32:57,527 | INFO | Refreshing access_token
+2019-06-15 23:33:48,294 | INFO | Profile for Carrie Theisen, id 49 created
+2019-06-15 23:41:42,353 | INFO | Refreshing access_token
+2019-06-15 23:42:02,051 | INFO | Profile for Tammy Johnston, id 50 created
+2019-06-15 23:47:23,073 | INFO | Refreshing access_token
+2019-06-15 23:47:24,192 | ERROR | Chromedriver problem: [Errno 21] Is a directory: '/home/boris/.config/google-chrome/Default/Extensions/hapgiopokcmcnjmakciaeaocceodcjdn'
+2019-06-15 23:47:33,624 | INFO | Refreshing access_token
+2019-06-15 23:47:34,650 | ERROR | Chromedriver problem: [Errno 21] Is a directory: '/home/boris/.config/google-chrome/Default/Extensions/hapgiopokcmcnjmakciaeaocceodcjdn'
+2019-06-15 23:48:24,421 | INFO | Refreshing access_token
+2019-06-15 23:48:25,275 | ERROR | Chromedriver problem: [Errno 21] Is a directory: '/home/boris/.config/google-chrome/Default/Extensions/hapgiopokcmcnjmakciaeaocceodcjdn'
+2019-06-15 23:48:32,697 | INFO | Refreshing access_token
+2019-06-15 23:54:02,666 | INFO | Refreshing access_token
+2019-06-15 23:54:04,382 | ERROR | Chromedriver problem: Path to the extension doesn't exist
+2019-06-15 23:55:39,786 | INFO | Refreshing access_token
+2019-06-15 23:55:41,738 | ERROR | Chromedriver problem: Message: unknown error: cannot process extension #1
+from unknown error: cannot unzip
+  (Driver info: chromedriver=2.44.609551 (5d576e9a44fe4c5b6a07e568f1ebc753f1214634),platform=Linux 5.0.0-16-generic x86_64)
+
+2019-06-15 23:58:51,096 | INFO | Refreshing access_token
+2019-06-15 23:59:17,523 | INFO | Profile for Kevin McCoy, id 52 created
+2019-06-15 23:59:26,652 | INFO | Refreshing access_token
+2019-06-15 23:59:28,903 | ERROR | Chromedriver problem: Message: unknown error: cannot process extension #1
+from unknown error: cannot unzip
+  (Driver info: chromedriver=2.44.609551 (5d576e9a44fe4c5b6a07e568f1ebc753f1214634),platform=Linux 5.0.0-16-generic x86_64)
+
